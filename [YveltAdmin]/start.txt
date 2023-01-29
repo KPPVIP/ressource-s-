@@ -1,0 +1,6 @@
+--- Ajoutez ces lignes dans votre server.cfg :
+
+ensure Coords
+ensure Coords1
+ensure SQLban
+ensure YveltAdmin
